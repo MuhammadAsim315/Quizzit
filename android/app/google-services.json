@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872252600503",
+    "project_id": "ai-quiz-74345",
+    "storage_bucket": "ai-quiz-74345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872252600503:android:e213ddd07438248c349d32",
+        "android_client_info": {
+          "package_name": "com.ProgramEz.Quizzit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFWgqjvBU7k9V64Cy0uPiYHajmqPT3f24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
